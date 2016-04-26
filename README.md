@@ -7,8 +7,9 @@ Walkthrough for setting up &amp; creating a basic basketball game with oculus &a
 <br>PC with multiple USB & HDMI attachments
 <br>Power source<br>
 
+# The Setup
 <b>Step 1 - Setting up the Oculus & Leap Motion</b>
-<br>Ensure the leap motion device is connected to the computer via USB and then mounted on the front of the Oculus Rift. (Note: If you are using the first developer version of the Oculus then there will not be a mount available for the leap motion. Our group used double sided velcro tape and it seemed to work great.)<br><br>
+<br>Ensure the leap motion device is connected to the computer via USB and then mounted on the front of the Oculus Rift. (Note: If you are using the first developer version of the Oculus then there will not be a mount available for the leap motion. Our group used double sided velcro tape and it seemed to work great.)<br>
 
 <b>Step 2 - Ensure Oculus is powered</b>
 <br>Ensure the Oculus Rift is powered and connected to the computer via HDMI & USB. A blue eye icon lights up blue to siginal the oculus is powered on.<br>
