@@ -15,9 +15,11 @@ Walkthrough for setting up &amp; creating a basic basketball game with oculus &a
 <br>Ensure the Oculus Rift is powered and connected to the computer via HDMI & USB. A blue eye icon lights up blue to siginal the oculus is powered on.<br>
 
 <b>Step 3 - Install Unity 3D & Create</b>
-<br>Once all drivers have been installed on the computer then start up the Unity 3D program and begin creating. (If you have not yet installed UNITY 3D, you can download it from their website <a href="https://unity3d.com/get-unity/download">here</a>. <br>* From here you check out our final result by downloading our unity file from github and importing it into your Unity assets folders. You can then run the Basketball Unity project from selecting it from your assets folder<br>
+<br>Once all drivers have been installed on the computer then start up the Unity 3D program and begin creating. (If you have not yet installed UNITY 3D, you can download it from their website <a href="https://unity3d.com/get-unity/download" target="_blank">here</a>. <br>* From here you check out our final result by downloading our unity file from github and importing it into your Unity assets folders. You can then run the Basketball Unity project from selecting it from your assets folder<br>
 
 # Where can I import 3D assets from?
 A great website for downloading <b>FREE</b> 3D assets is <a href="http://tf3dm.com/" target="_blank">TF3DM</a>. You can then import these files directly into your Unity project.
+
+The basketball court we used can be found <a href="http://tf3dm.com/3d-model/basketball-court-62402.html" target="_blank">here</a>.
 
 
