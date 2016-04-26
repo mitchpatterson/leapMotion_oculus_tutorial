@@ -1,5 +1,5 @@
 # leapMotion_oculus_tutorial
-Walkthrough for setting up &amp; creating a basic basketball game with oculus &amp; leap motion in Unity 3D. Also check our <a href="https://github.com/mitchpatterson/leapMotion_oculus_tutorial/edit/master/TechStudioFinalWriteUp.pdf">report</a> for detailed instructions & pictures. 
+Walkthrough for setting up &amp; creating a basic basketball game with oculus &amp; leap motion in Unity 3D. <br>Also check our <a href="https://github.com/mitchpatterson/leapMotion_oculus_tutorial/edit/master/TechStudioFinalWriteUp.pdf">report</a> for detailed instructions & pictures. 
 
 <b>Before starting you will need the following:</b>
 <br>Oculus Rift Development Starter Kit
@@ -14,7 +14,10 @@ Walkthrough for setting up &amp; creating a basic basketball game with oculus &a
 <b>Step 2 - Ensure Oculus is powered</b>
 <br>Ensure the Oculus Rift is powered and connected to the computer via HDMI & USB. A blue eye icon lights up blue to siginal the oculus is powered on.<br>
 
-<b>Step 3 - Install Unity 3D</b>
-<br>Once all drivers have been installed on the computer then start up the Unity 3D program. * From here you check out our final result by downloading our unity file from github and importing it into your Unity assets folders. You can then run the Basketball Unity project from selecting it from your assets folder<br>
+<b>Step 3 - Install Unity 3D & Create</b>
+<br>Once all drivers have been installed on the computer then start up the Unity 3D program and begin creating. (If you have not yet installed UNITY 3D, you can download it from their website <a href="https://unity3d.com/get-unity/download">here</a>. <br>* From here you check out our final result by downloading our unity file from github and importing it into your Unity assets folders. You can then run the Basketball Unity project from selecting it from your assets folder<br>
+
+# Where can I import 3D assets from?
+A great website for downloading <b>FREE</b> 3D assets is <a href="http://tf3dm.com/" target="_blank">TF3DM</a>. You can then import these files directly into your Unity project.
 
 
