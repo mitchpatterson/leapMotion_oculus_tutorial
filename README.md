@@ -1,5 +1,5 @@
 # leapMotion_oculus_tutorial
-Walkthrough for setting up &amp; creating a basic basketball game with oculus &amp; leap motion in Unity 3D.
+Walkthrough for setting up &amp; creating a basic basketball game with oculus &amp; leap motion in Unity 3D. Also check our <a href="https://github.com/mitchpatterson/leapMotion_oculus_tutorial/edit/master/TechStudioFinalWriteUp.pdf">report</a> for detailed instructions & pictures. 
 
 <b>Before starting you will need the following:</b>
 <br>Oculus Rift Development Starter Kit
@@ -15,6 +15,6 @@ Walkthrough for setting up &amp; creating a basic basketball game with oculus &a
 <br>Ensure the Oculus Rift is powered and connected to the computer via HDMI & USB. A blue eye icon lights up blue to siginal the oculus is powered on.<br>
 
 <b>Step 3 - Install Unity 3D</b>
-<br>Once all drivers have been installed on the computer then start up the Unity 3D program. * From here you can run the Basketball Unity project in the assets folder if you want to see our final project.<br>
+<br>Once all drivers have been installed on the computer then start up the Unity 3D program. * From here you check out our final result by downloading our unity file from github and importing it into your Unity assets folders. You can then run the Basketball Unity project from selecting it from your assets folder<br>
 
 
